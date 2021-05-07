@@ -13,4 +13,4 @@ jobs:
         with:
           firstGreeting: "Learning Lab User"
           secondGreeting: "yo"
-          THIRD_GREETING: "test"
+          THIRD_GREETING: "new"
